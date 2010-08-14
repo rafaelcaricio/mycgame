@@ -1,0 +1,9 @@
+h1. Meu primeiro projeto(tentativa de projeto) de um jogo em C/C++
+
+Não sei mais como faz pra rodar esse projeto, porém acredito que basta instalar o allegro e compilar usando o gcc.
+
+h2. Links
+
+* Allegro - biblioteca usada no projeto. http://alleg.sourceforge.net/
+
+h3. Rafael Carício 2007.
